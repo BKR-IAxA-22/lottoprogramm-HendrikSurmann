@@ -63,9 +63,8 @@
             this.label1.ForeColor = System.Drawing.SystemColors.Control;
             this.label1.Location = new System.Drawing.Point(12, 59);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(28, 16);
+            this.label1.Size = new System.Drawing.Size(0, 16);
             this.label1.TabIndex = 1;
-            this.label1.Text = "123";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label2
@@ -74,9 +73,8 @@
             this.label2.ForeColor = System.Drawing.SystemColors.Control;
             this.label2.Location = new System.Drawing.Point(46, 59);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(28, 16);
+            this.label2.Size = new System.Drawing.Size(0, 16);
             this.label2.TabIndex = 2;
-            this.label2.Text = "123";
             this.label2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label3
@@ -85,9 +83,8 @@
             this.label3.ForeColor = System.Drawing.SystemColors.Control;
             this.label3.Location = new System.Drawing.Point(80, 59);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(28, 16);
+            this.label3.Size = new System.Drawing.Size(0, 16);
             this.label3.TabIndex = 3;
-            this.label3.Text = "123";
             this.label3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label4
@@ -96,9 +93,8 @@
             this.label4.ForeColor = System.Drawing.SystemColors.Control;
             this.label4.Location = new System.Drawing.Point(114, 59);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(28, 16);
+            this.label4.Size = new System.Drawing.Size(0, 16);
             this.label4.TabIndex = 4;
-            this.label4.Text = "123";
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label5
@@ -107,9 +103,8 @@
             this.label5.ForeColor = System.Drawing.SystemColors.Control;
             this.label5.Location = new System.Drawing.Point(148, 59);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(28, 16);
+            this.label5.Size = new System.Drawing.Size(0, 16);
             this.label5.TabIndex = 5;
-            this.label5.Text = "123";
             this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label6
@@ -118,9 +113,8 @@
             this.label6.ForeColor = System.Drawing.SystemColors.Control;
             this.label6.Location = new System.Drawing.Point(182, 59);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(28, 16);
+            this.label6.Size = new System.Drawing.Size(0, 16);
             this.label6.TabIndex = 6;
-            this.label6.Text = "123";
             this.label6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // label7
@@ -129,9 +123,8 @@
             this.label7.ForeColor = System.Drawing.SystemColors.Control;
             this.label7.Location = new System.Drawing.Point(182, 85);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(28, 16);
+            this.label7.Size = new System.Drawing.Size(0, 16);
             this.label7.TabIndex = 7;
-            this.label7.Text = "123";
             this.label7.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // textBox1

@@ -10,11 +10,6 @@ namespace Lottoprogramm
         public Form1()
         {
             InitializeComponent();
-
-            for (int i = 1; i <= 7; i++)
-            {
-                Controls.OfType<Label>().FirstOrDefault(c => c.Name == $"label{i}").Text = "";
-            }
         }
 
         private int[] lottonumbers = new int[7];
